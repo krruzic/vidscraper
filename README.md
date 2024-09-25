@@ -1,7 +1,7 @@
 iykyk
 
 # USAGE
-start the program with `npm run start`, it will prompt you for a TV show name. 
+start the program with `npm i && npm run start`, it will prompt you for a TV show name. 
 Enter one, it will then look it up on IMDB and use the first search result (!!)
 
 
